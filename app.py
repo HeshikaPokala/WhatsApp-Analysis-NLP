@@ -117,14 +117,3 @@ if uploaded_file is not None:
 
         st.title('Most common words')
         st.pyplot(fig)
-
-
-
-
-
-
-
-
-
-
-
