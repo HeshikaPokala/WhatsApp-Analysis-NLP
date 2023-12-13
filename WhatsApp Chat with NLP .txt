@@ -1,0 +1,54 @@
+11/17/23, 8:24 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+11/17/23, 8:24 PM - Srikanth created group "NLP "
+11/17/23, 8:24 PM - Srikanth added you
+11/17/23, 8:39 PM - Srikanth: Image Caption Generator
+11/17/23, 8:40 PM - Srikanth: https://awesomeopensource.com/project/neural-nuts/image-caption-generator
+11/17/23, 8:41 PM - Srikanth: Everyone send a title which they find interesting later let’s finalise what to do
+11/17/23, 8:50 PM - Srikanth: This is already taken
+11/17/23, 8:55 PM - Srikanth: https://youtu.be/oWJe2T29kAo?si=xOnlNfdUTnjUZivI
+11/17/23, 8:55 PM - Srikanth: WhatsApp Chat Analysis Project
+11/17/23, 8:55 PM - Srikanth: https://youtu.be/Q0QwvZKG_6Q?si=CF0ACkQynwFcykag
+11/17/23, 8:56 PM - Srikanth: Check out this video
+11/17/23, 9:04 PM - Abhishek MU: Let's discuss about this tomorrow when everyone meets.
+11/17/23, 9:30 PM - Abhishek MU: Now come up with project titles which you think are intresting.
+11/17/23, 9:31 PM - Vasundhara Reddy: For now..fill this in that Excel sheet.. Tharvata we'll change if needed
+11/17/23, 9:31 PM - Srikanth: Okie
+11/20/23, 7:21 PM - Vasundhara Reddy: Guyss today is the last day to fill the idea.. please put up more better ideas
+11/20/23, 7:24 PM - Srikanth added Vardhaman A9
+11/20/23, 7:28 PM - Vasundhara Reddy: Team leader Srikanth send a nice idea suitable for a 6-member team
+11/20/23, 7:29 PM - Vasundhara Reddy: Vardhamannn
+11/20/23, 7:29 PM - Vasundhara Reddy: R u alive??
+11/20/23, 7:41 PM - Srikanth: Im not the team leader
+11/20/23, 7:42 PM - Vasundhara Reddy: https://youtu.be/dv3f5ij8zHU?si=CJYswmNyudCdNEFe
+11/20/23, 8:11 PM - Vardhaman A9: Yes ma'am
+11/20/23, 8:11 PM - Vasundhara Reddy: Project idea sir
+11/20/23, 8:15 PM - Vardhaman A9: Nuvvu edi ante ade vasu
+11/20/23, 8:15 PM - Vasundhara Reddy: Nuvvu chepu ra maku edhi dorakatle
+11/20/23, 8:56 PM - Abhishek MU: https://github.com/FaysalMiah55/disease-condition-prediction
+11/21/23, 4:01 PM - Heshhhhhh: https://github.com/iamaziz/language-detection-fastText
+11/21/23, 4:02 PM - Heshhhhhh: https://neptune.ai/blog/10-nlp-projects
+11/21/23, 4:18 PM - Abhishek MU: https://www.projectpro.io/article/nlp-projects-ideas-/452
+11/21/23, 4:20 PM - Heshhhhhh: Detection of Text, Translatation and summarization of text
+You can build a web app that translates news from Arabic to English and summarizes them, using great Python libraries like newspaper, transformers, and gradio.
+11/22/23, 10:11 AM - Vasundhara Reddy: https://github.com/ssut/py-googletrans
+11/22/23, 10:18 AM - Vasundhara Reddy: https://github.com/zakariabenzeroual/nlp-project-translation
+12/11/23, 7:32 PM - Srikanth: https://youtu.be/hG8K5h2J-5g?si=AnbXhbFwaHzEOJtD
+12/11/23, 7:32 PM - Srikanth: we are doing this
+12/11/23, 7:32 PM - Srikanth: cause sir ichinddhi mana valla ee time lo avadhu
+12/11/23, 7:50 PM - Srikanth: ..
+12/13/23, 4:40 PM - Heshhhhhh: POLL:
+Work Allotment
+OPTION: Title Page and Problem Statement (1 vote)
+OPTION: Implementation (3 votes)
+OPTION: Results And Discussion (2 votes)
+OPTION: References and Appendix (0 votes)
+
+12/13/23, 4:41 PM - Heshhhhhh: Implementation - 2 people 
+Results And Discussion - 2 People
+12/13/23, 4:42 PM - Heshhhhhh: We should finish this by EOD
+12/13/23, 7:43 PM - Abhishek MU: Any updates on project?
+12/13/23, 7:54 PM - Vasundhara Reddy: Arey implementation is more important problem statement ki idharu petaru enti
+12/13/23, 8:05 PM - Abhishek MU: https://github.com/KashmalaJamshaid/NLP-implementation-on-whastapp-chats-using-python/blob/main/NLP_on_Whatsapp_Chat_using_python.ipynb
+12/13/23, 8:17 PM - Abhishek MU: .
+12/13/23, 8:18 PM - Vasundhara Reddy: https://mahindraecolecentrale-my.sharepoint.com/:w:/g/personal/se21uari062_mahindrauniversity_edu_in/Eftmrab6RupKlR8r_8UYUq8BbcPNsYXJcHqld88uNfFl1Q?e=yOyqK4
+12/13/23, 8:24 PM - Heshhhhhh: edit in this
