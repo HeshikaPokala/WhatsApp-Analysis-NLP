@@ -1,5 +1,5 @@
 import streamlit as st
-import preprocessor ,helper
+import preprocessor,helper
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -10,15 +10,16 @@ if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
     data = bytes_data.decode("utf-8")
     df = preprocessor.preprocess(data)
-    st.dataframe(df)
 
     # fetch unique users
     user_list = df['user'].unique().tolist()
+
+    # Check if 'group_notification' is in the user_list before removing
     if 'group_notification' in user_list:
         user_list.remove('group_notification')
+
     user_list.sort()
     user_list.insert(0, "Overall")
-
 
     selected_user = st.sidebar.selectbox("Show analysis wrt",user_list)
 
@@ -108,9 +109,12 @@ if uploaded_file is not None:
 
         # most common words
         most_common_df = helper.most_common_words(selected_user,df)
+
         fig,ax = plt.subplots()
+
         ax.barh(most_common_df[0],most_common_df[1])
         plt.xticks(rotation='vertical')
+
         st.title('Most common words')
         st.pyplot(fig)
 
