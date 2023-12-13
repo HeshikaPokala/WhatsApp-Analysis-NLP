@@ -29,6 +29,6 @@ def preprocess(data):
     return df
 
 
-f = open(r"C:\Users\kumar_lf3uub3\Desktop\CN\Whatsapp Analyser\WhatsApp Chat with MU Chess Club.txt", 'r', encoding='utf-8')
+f = open(r"C:\Users\kumar_lf3uub3\Desktop\CN\Whatsapp Analyser\WhatsApp Chat with AI 1.txt", 'r', encoding='utf-8')
 data = f.read()
 df = preprocess(data)
