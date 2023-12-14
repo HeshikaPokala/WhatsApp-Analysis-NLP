@@ -38,7 +38,7 @@ def preprocess(data):
     return df
 
 
-f = open(r"C:\Users\kumar_lf3uub3\Downloads\WhatsApp Chat with NLP .txt", encoding='utf-8')
+f = open(r"C:\Users\kumar_lf3uub3\Downloads\WhatsApp Chat with Stu-dying 🗡️.txt", encoding='utf-8')
 data = f.read()
 df = preprocess(data)
 #print(df)
